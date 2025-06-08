@@ -1,4 +1,5 @@
-(Task not given) py-if-else task: Uses conditional statements (if-elif-else) to make decisions based on input values.
+py-if-else task: Uses conditional statements (if-elif-else) to make decisions based on input values.
+	(Task not given, theory and a simple code present in py-if-else.pdf)
 python-arithmetic-operators: Involves performing basic mathematical operations like addition, subtraction, multiplication, and division.
 compress-the-string: Compresses a string by counting consecutive characters, often using itertools.groupby().
 the-minion-game: A string game where players earn points by forming substrings starting with vowels or consonants.
@@ -7,4 +8,4 @@ word-order: Counts and displays the number of occurrences of each word while pre
 iterables-and-iterators: Works with iterators and combinations to solve problems involving sequences and probabilities.
 python-tuples: Introduces immutable sequences and their use in operations like hashing.
 finding-the-percentage: Calculates and formats the average marks of a student from a given dataset.
-python-string-formatting: Demonstrates ways to format and align strings and numbers for clean output.x
+python-string-formatting: Demonstrates ways to format and align strings and numbers for clean output.
