@@ -7,7 +7,7 @@ Week2/
 ```
 
 #### ```tasks.txt``` contains the list of tasks assigned for the week
-#### Folder per task contain: python code file(which includes the task information, code/solution and thought process, how solution was achieved), submission proof. (and task information, in some folders, to clearly describe the tasks)
+#### Folder per task contain: python code file(which includes the task information, code/solution and thought process, how solution was achieved), submission snapshot. (and task information, in some folders, to clearly describe the tasks)
 
 ---
 
