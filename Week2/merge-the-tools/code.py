@@ -4,7 +4,7 @@ Task defined in task_part1.png, task_part2.png, task_part3.png
 
 
 def merge_the_tools(string, k):
-    # your code goes here
+    """Prints the distinct characters in order in groups of k"""
     
     kth_strings = []
     pos = 0

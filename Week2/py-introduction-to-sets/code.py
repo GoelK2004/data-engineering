@@ -24,8 +24,8 @@ Sample Output
 
 
 def average(array):
-    # your code goes here
-    
+    """Calculates the average of distinct heights"""
+
     height_set = set(array)
     total_distinct_heights = len(height_set)
     sum_heights = 0

@@ -68,7 +68,7 @@ Sample Output
 
 
 def print_rangoli(size):
-    # your code goes here
+    """Prints the RANGOLI pattern of 'size'"""
     
     if (size == 1):
         print("a")
