@@ -27,7 +27,7 @@ import sys
 
 # Complete the solve function below.
 def solve(s):
-    """Capitalise the forst letter of each word"""
+    """Capitalise the first letter of each word"""
     
     result = ""
     new_word = True
