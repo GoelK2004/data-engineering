@@ -7,7 +7,7 @@ Week3/
 ```
 
 #### ```tasks.txt``` contains the list of tasks assigned for the week
-#### PDF per task contain: Task information, solution or SQL query, submission snapshot and the concept used with resources, i.e, the websites used to understand the concepts.
+#### PDF per task contain: Task information, solution or SQL query, submission snapshot and the concept used with resources(websites used to understand the concepts).
 
 ---
 
