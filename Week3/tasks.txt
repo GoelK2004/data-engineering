@@ -1,0 +1,10 @@
+Select All: SQL Quey to fetch all details
+Select By ID: SQL query to fetch details by ID
+Employee Names: SQL Query to list all employess names
+Japanese Cities: Query to filter Japanese City
+Weather Observation Station 1: SQL Query to list of city and state
+Weather Observation Station 3: Query a list of CITY names from STATION for cities that have an even ID number
+Weather Observation Station 4: Find the difference between the total number of CITY entries in the table and the number of distinct CITY entries in the table.
+Weather Observation Station 5: Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths
+Average Population: Query the average population for all cities in CITY, rounded down to the nearest integer.
+Average Population of Each Continent: Query the average population for all cities in CITY, rounded down to the nearest integer.
