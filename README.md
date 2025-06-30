@@ -1,6 +1,18 @@
 ## Folder Structure
 
 ```graphql
+Week4/
+|── tasks.txt       # List of tasks
+└── pdf_per_task    # PDF for each task
+```
+
+#### ```tasks.txt``` contains the list of tasks assigned for the week
+#### PDF per task contain: Task information, solution or SQL query, submission snapshot.
+
+---
+
+
+```graphql
 Week3/
 |── tasks.txt       # List of tasks
 └── pdf_per_task    # PDF for each task
