@@ -9,6 +9,10 @@ Week5/
 #### ```tasks.txt``` contains the list of tasks assigned for the week
 #### Folder per task contain: Python/ipynb/SQL code as per the task, subfolders corresponding to their functionalities, pdf file that explains the working, procedure of the task.
 #### The PDF file present in the folder can be read to understand the task, usage of codes present in the folder and the procedure to be followed to achieve the aim.
+#### The database used is MS SQL SERVER.
+### The primary database used is provided by ```https://www.sqlservertutorial.net/``` and can be viewed here: 
+  https://www.sqlservertutorial.net/getting-started/sql-server-sample-database/ <br>
+  https://www.sqlservertutorial.net/getting-started/load-sample-database/
 
 ---
 
