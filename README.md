@@ -13,6 +13,7 @@ Week5/
 #### The primary database used is provided by ```https://www.sqlservertutorial.net/``` and can be viewed here: 
   https://www.sqlservertutorial.net/getting-started/sql-server-sample-database/ <br>
   https://www.sqlservertutorial.net/getting-started/load-sample-database/
+#### The script for creating schema and populating with data is present in ```bikeStoresDatabase``` folder.
 
 ---
 
