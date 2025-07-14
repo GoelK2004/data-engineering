@@ -14,8 +14,6 @@ Week6/
 
 ---
 
-## Folder Structure
-
 ```graphql
 Week5/
 |── tasks.txt        # List of tasks
