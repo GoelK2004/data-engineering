@@ -1,6 +1,22 @@
 ## Folder Structure
 
 ```graphql
+Week6/
+|── tasks.txt        # List of tasks
+└── pdf_per_task     # PDF for each task
+└── task3Scripts     # SQL Scripts for task 3
+```
+
+#### ```tasks.txt``` contains the list of tasks assigned for the week
+#### PDF per task contain: PDF file that explains the working, procedure and steps performed to achieve the task with visual snapshots.
+#### task3Scripts contain: SQL scripts for saving, retreiving and updating watermarks, stored procedures and pipeline queries.
+#### The SFTP server required in Task 2 was handled via: https://sftpcloud.io/tools/free-sftp-server
+
+---
+
+## Folder Structure
+
+```graphql
 Week5/
 |── tasks.txt        # List of tasks
 └── folder_per_task  # Folder for each task
