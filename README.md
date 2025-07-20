@@ -1,6 +1,21 @@
 ## Folder Structure
 
 ```graphql
+Week7/
+|── tasks.txt        # Task information
+└── task.pdf         # Task performed
+└── SampleFiles      # Sample CSV files used
+└── SQLScripts       # SQL Scripts
+```
+
+#### ```tasks.txt``` contains the task assigned for the week
+#### task.pdf: PDF file that explains the working, procedure and steps performed to achieve the task with visual snapshots.
+#### SampleFiles contain: CSV files used to perform the task, all three types of CSV file are present in this directory.
+#### SQLScripts contain: SQL scripts for creating, updating schema, tables and stored procedures.
+
+---
+
+```graphql
 Week6/
 |── tasks.txt        # List of tasks
 └── pdf_per_task     # PDF for each task
