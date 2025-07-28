@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "timestamp": "2023-01-15T10:00:00Z",
+    "user": {
+      "userId": "user_A",
+      "name": "Alice Smith",
+      "email": "alice.s@example.com"
+    },
+    "products": [
+      {"productId": "P101", "name": "Laptop", "price": 1200.00, "quantity": 1},
+      {"productId": "P102", "name": "Mouse", "price": 25.00, "quantity": 2}
+    ],
+    "orderStatus": "completed",
+    "paymentDetails": {
+      "method": "credit_card",
+      "transactionId": "TXN12345",
+      "amount": 1250.00
+    },
+    "tags": ["electronics", "online_sale"]
+  },
+  {
+    "id": "2",
+    "timestamp": "2023-01-15T11:30:00Z",
+    "user": {
+      "userId": "user_B",
+      "name": "Bob Johnson",
+      "email": "bob.j@example.com"
+    },
+    "products": [
+      {"productId": "P201", "name": "Keyboard", "price": 75.00, "quantity": 1},
+      {"productId": "P202", "name": "Monitor", "price": 300.00, "quantity": 1}
+    ],
+    "orderStatus": "pending",
+    "paymentDetails": {
+      "method": "paypal",
+      "transactionId": "TXN67890",
+      "amount": 375.00
+    },
+    "tags": ["peripherals"]
+  }
+]
