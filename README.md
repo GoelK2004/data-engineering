@@ -1,6 +1,25 @@
 ## Folder Structure
 
 ```graphql
+Week8/
+|── tasks.txt                         # Task information
+└── databricks-azure-connection.pdf   # Input JSON file for task 2
+└── datasets/                         # Input JSON file for task 2
+└── output-parquet-files/             # Target/Saved parquet files from task 2
+└── flatten_json.ipynb                # Task2 notebook
+└── mounts.ipynb                      # Dataset mounted
+└── NYCDataset.ipynb                  # Task 1 notebook
+```
+
+#### ```tasks.txt``` contains the task assigned for the week
+#### databricks-azure-connection.pdf: PDF file that explains, how to connect Azure Data Lake Blob Storage to Azure Databricks.
+#### mounts.ipynb: IPynb file that shows the mounted container.
+#### NYCDataset.ipynb and flatten_json.ipynb: IPynb files for task 1 and task 2 respectively.
+
+---
+
+
+```graphql
 Week7/
 |── tasks.txt        # Task information
 └── task.pdf         # Task performed
